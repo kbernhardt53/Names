@@ -2,7 +2,7 @@
 :docinfo: shared
 
 = Name Analysis
-Bubs | 2/16/2026
+Bubs | {docdatetime}
 
 <<name_table>> describes the acceptability for names given the following key: 
 
@@ -18,8 +18,8 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 |===
 | Name | First Name | Middle Name | Notes
 
-| Liam | Z | Z | 
-| Noah | Z | Z | 
+| Liam | Z | Z | I think this would be a decent name, but something about it doesn't jump out at me as our boy's name. This is why I need time to think about this one in more depth. 
+| Noah | Z | Z | I struggle with this name. One the one hand it can sound nice and is soft. On the other, it makes me think of a little boy turning on faucets trying to flood the house to rid it of sinners. 
 | Oliver | N | N | 
 | Theodore | N | N | 
 | James | N | N | 
@@ -27,7 +27,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Mateo | N | N | 
 | Elijah | N | N | 
 | Lucas | N | N | 
-| William | Y | Y | 
+| William | N | Y | 
 | Benjamin | N | N | 
 | Levi | N | N | 
 | Ezra | N | N | 
@@ -58,7 +58,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Wyatt | N | N | 
 | Thomas | N | Y |This is an acceptable middle name. I would not have regrets using it. Is it my top one, no. But again, I would not have regrets using it. That is why it is marked `Y` 
 | Isaac | N | N | 
-| Jacob | N | Z | 
+| Jacob | N | Z | I really need to think more about this as a middle name. I don't think I would have regrets, but I am not sure if it fits our son's middle name.
 | Gabriel | N | N | 
 | Anthony | N | N | 
 | Carter | N | Y | 
@@ -85,7 +85,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Andrew | N | N | 
 | Beau | N | N | 
 | Weston | N | N | 
-| Rowan | Y | Y | 
+| Rowan | N | Y | 
 | Adrian | N | N | 
 | Lincoln | N | N | 
 | Enzo | N | N | 
@@ -148,7 +148,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Jasper | N | Y | 
 | Ryder | N | N | 
 | Carlos | N | N | 
-| Connor | Z | Y | I think this sounds good a middle name with a lot of names. I'm still unsure of the first name. At first I didn't like it as a first name, but as I used it more, I think it is growing on me to the point of saying that I wouldn't have regrets naming him this. However, I believe I need more time with it. 
+| Connor | Z | Y | I think this sounds good as middle name with a lot of names. I'm still unsure of the first name. At first I didn't like it as a first name, but as I used it more, I think it is growing on me to the point of saying that I wouldn't have regrets naming him this. However, I believe I need more time with it. 
 | Juan | N | N | 
 | Matteo | N | N | 
 | Dawson | N | N | 
@@ -281,7 +281,6 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Emerson | N | N | 
 | Walter | N | N | 
 | Cade | N | N | 
-| Ellis | Y | Y | 
 | Otto | N | N | 
 | Phoenix | N | N | 
 | Colt | N | N | 
@@ -579,7 +578,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Ford | N | N | 
 | Soren | N | N | 
 | Zaiden | N | N | 
-| Allen | N | Y |I actually think this sounds good with Owen.  
+| Allen | N | Y |
 | Louie | N | N | 
 | Ronald | N | N | 
 | Alden | N | N | 
@@ -685,7 +684,6 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Abdiel | N | N | 
 | Kareem | N | N | 
 | Corey | N | N | 
-| Emmitt | Y | Y | 
 | Wylder | N | N | 
 | Koen | N | N | 
 | Junior | N | N | 
