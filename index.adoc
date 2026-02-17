@@ -54,7 +54,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Luke | N | Y | 
 | Jackson | N | N | 
 | Maverick | N | N | 
-| Miles | Y | Y | 
+| Miles | N | Y | 2/16 - This name is good, but it is hard to say the possessive form. Therefore, it remains as a good middle name. 
 | Wyatt | N | N | 
 | Thomas | N | Y |This is an acceptable middle name. I would not have regrets using it. Is it my top one, no. But again, I would not have regrets using it. That is why it is marked `Y` 
 | Isaac | N | N | 
