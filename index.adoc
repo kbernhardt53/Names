@@ -8,7 +8,10 @@ Bubs | {docdatetime}
 
 * `Y` = The name is very acceptable. The name can be used in every day conversation without a cringe factor, sense of regret, or negative association.
 * `N` = The name is not acceptable and should be disregarded because of cringe factor, sense of regret, or negative association. 
+* `X` = The name was marked as a `Y` by Bubs but was not liked and removed from the list by Noodle
 * `Z` = The name needs more deliberation and careful consideration for about 20 minutes, which includes a session of conversion with the name and Noodle saying the name back to bubs. 
+
+
 
 NOTE: Some first names are also marked as middle name contenders. This does not mean that all first names that are liked are acceptable as middle names because of the way they sound. 
 
@@ -40,9 +43,9 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Asher | N | N | 
 | John | N | N | 
 | Hudson | N | N | 
-| Luca | Y | Y | 
+| Luca | N | Y | Removed from first name list by Noodle 2/17/2026
 | Leo | N | N | 
-| Elias | Y | Y | 
+| Elias | X | Y | Removed from first name by Noodle 2/17/2026
 | Owen | Y | Y | 
 | Alexander | N | N | 
 | Dylan | N | N | 
@@ -99,18 +102,18 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Walker | N | N | 
 | Jonathan | N | N | 
 | Leonardo | N | N | 
-| Everett | Y | Y | 
+| Everett | X | Y | Removed from first name list by Noodle 2/17/2026
 | Micah | N | N | 
 | Ryan | N | N | 
 | August | N | N | 
 | Gael | N | N | 
 | Robert | N | N | 
 | Jose | N | N | 
-| Eli | Y | Y | 
+| Eli | X | Y | Removed from first name by Noodle 2/17/2026
 | Jeremiah | N | N | 
 | Amir | N | N | 
 | Jaxon | N | N | 
-| Parker | Y | Y | 
+| Parker | X | Y | Removed from first name by Noodle 2/17/2026
 | Colton | N | N |  
 | Adam | N | N | 
 | Atlas | N | N | 
@@ -443,7 +446,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Noel | N | N | 
 | Benson | N | N | 
 | Sean | N | N | 
-| Clark | Y | Y | 
+| Clark | X | Y | Removed by Noodle for first name 2/17/2026
 | Miller | N | N | 
 | Kyle | N | N | 
 | Kieran | N | N | 
