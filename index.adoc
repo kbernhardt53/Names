@@ -8,7 +8,7 @@ Bubs | {docdatetime}
 
 * `Y` = The name is very acceptable. The name can be used in every day conversation without a cringe factor, sense of regret, or negative association.
 * `N` = The name is not acceptable and should be disregarded because of cringe factor, sense of regret, or negative association. 
-* `X` = The name was marked as a `Y` by Bubs but was not liked and removed from the list by Noodle
+* `X` = The name was marked as a `Y` by Bubs but was not liked and removed from the list by Noodle.
 * `Z` = The name needs more deliberation and careful consideration for about 20 minutes, which includes a session of conversion with the name and Noodle saying the name back to bubs. 
 
 
@@ -267,7 +267,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Simon | N | N | 
 | Aziel | N | N | 
 | Cyrus | N | N | 
-| Gavin | Y | Y | 
+| Gavin | X | Y | Noodle removed this from the list on 2/19/2026 
 | Marcus | N | N | 
 | Ronan | N | N | 
 | Derek | N | N | 
