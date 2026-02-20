@@ -134,7 +134,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Lorenzo | N | N | 
 | Jameson | N | N | 
 | Nicholas | N | N | 
-| Emmett | Y | Y | 
+| Emmett | X | Y | Removed by Noodle on 2/19/2026 
 | Milo | N | N | 
 | Harrison | N | N | 
 | Giovanni | N | N | 
@@ -186,7 +186,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Braxton | N | N | 
 | Jaxson | N | N | 
 | Amari | N | N | 
-| Chase | Y | Y | 
+| Chase | X | Y | Removed by Noodle 2/19/2026
 | Rhett | N | N | 
 | Max | N | N | 
 | Charlie | N | N | Like this, but I think you would have to name him charles, which I don't particularly like.  
