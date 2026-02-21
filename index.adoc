@@ -52,7 +52,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Santiago | N | N | 
 | Julian | N | N | 
 | David | N | N | 
-| Joseph | N | Y |I do think this is a decent middle name. I know it's already in use by Timmy and Kenzie.  
+| Joseph | N | X |Removed by Noodle 2/21/2026
 | Matthew | N | N | 
 | Luke | N | Y | 
 | Jackson | N | N | 
