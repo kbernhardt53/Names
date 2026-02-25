@@ -46,7 +46,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Luca | N | X | Removed from first name list by Noodle 2/17/2026. Removed from middle name contention by Noodle and Bubs 2/24
 | Leo | N | N | 
 | Elias | X | X | Removed from first name by Noodle 2/17/2026. Removed from middle name contention by Noodle and Bubs 2/24
-| Owen | Y | Y | 
+| Owen | Y | X | Chosen as first name leader. =)  
 | Alexander | N | N | 
 | Dylan | N | N | 
 | Santiago | N | N | 
@@ -57,9 +57,10 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Luke | N | Y | 
 | Jackson | N | N | 
 | Maverick | N | N | 
-| Miles | N | Y | 2/16 - This name is good, but it is hard to say the possessive form. Therefore, it remains as a good middle name. 
+| Miles | N | Y | BMNR: 6 + 
+2/16 - This name is good, but it is hard to say the possessive form. Therefore, it remains as a good middle name. 
 | Wyatt | N | N | 
-| Thomas | N | Y |This is an acceptable middle name. I would not have regrets using it. Is it my top one, no. But again, I would not have regrets using it. That is why it is marked `Y` 
+| Thomas | N | Y |BMNR: 5
 | Isaac | N | N | 
 | Jacob | N | X | I really need to think more about this as a middle name. I don't think I would have regrets, but I am not sure if it fits our son's middle name. Removed by Noodle and Bubs 2/24
 | Gabriel | N | N | 
@@ -151,7 +152,8 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Jasper | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Ryder | N | N | 
 | Carlos | N | N | 
-| Connor | Z | Y | I think this sounds good as middle name with a lot of names. I'm still unsure of the first name. At first I didn't like it as a first name, but as I used it more, I think it is growing on me to the point of saying that I wouldn't have regrets naming him this. However, I believe I need more time with it. 
+| Connor | Z | Y | BMNR: 4 + 
+I think this sounds good as middle name with a lot of names. I'm still unsure of the first name. At first I didn't like it as a first name, but as I used it more, I think it is growing on me to the point of saying that I wouldn't have regrets naming him this. However, I believe I need more time with it. 
 | Juan | N | N | 
 | Matteo | N | N | 
 | Dawson | N | N | 
@@ -177,7 +179,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Callum | N | N |I am not a fan of the name Cal. Therefore, I am removing this name from contention.  
 | Hayes | N | N | 
 | Jett | N | N | 
-| Cole | N | Y | 
+| Cole | N | Y | BMNR: 2. 
 | Jesus | N | N | 
 | Ace | N | N | 
 | Beckett | N | N | 
@@ -186,7 +188,8 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Braxton | N | N | 
 | Jaxson | N | N | 
 | Amari | N | N | 
-| Chase | X | Y | Removed by Noodle 2/19/2026
+| Chase | X | Y | BMNR: 1. + 
+Removed by Noodle 2/19/2026
 | Rhett | N | N | 
 | Max | N | N | 
 | Charlie | N | N | Like this, but I think you would have to name him charles, which I don't particularly like.  
@@ -310,7 +313,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Bryce | N | N | 
 | Maximiliano | N | N | 
 | Zyaire | N | N | 
-| Reid | N | Y | 
+| Reid | N | Y | BMNR: 3. 
 | Brian | N | N | 
 | Bodhi | N | N | 
 | Cruz | N | N | 
@@ -446,7 +449,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Noel | N | N | 
 | Benson | N | N | 
 | Sean | N | N | 
-| Clark | X | Y | Removed by Noodle for first name 2/17/2026
+| Clark | X | X | Removed by Noodle for first name 2/17/2026. Removed by for middle name contention 2/24. 
 | Miller | N | N | 
 | Kyle | N | N | 
 | Kieran | N | N | 
