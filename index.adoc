@@ -21,7 +21,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 |===
 | Name | First Name | Middle Name | Notes
 
-| Liam | Y | Y | Name added to Y by bubs 2/19. Reason: Sounds nice, strong meaning. To hell with the popularity. 
+| Liam | Y | X | Name added to Y by bubs 2/19. Reason: Sounds nice, strong meaning. To hell with the popularity. Removed by Noodle and Bubs 2/24
 | Noah | N | N | Removed by Bubs 2/19/2026 
 | Oliver | N | N | 
 | Theodore | N | N | 
@@ -30,7 +30,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Mateo | N | N | 
 | Elijah | N | N | 
 | Lucas | N | N | 
-| William | N | Y | 
+| William | N | X | Removed from middle name contention by Noodle and Bubs 2/24 
 | Benjamin | N | N | 
 | Levi | N | N | 
 | Ezra | N | N | 
@@ -39,13 +39,13 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Daniel | N | N | 
 | Samuel | N | N | 
 | Michael | N | N |
-| Ethan | Y | Y | 
+| Ethan | Y | X | Removed by Noodle and Bubs 2/24
 | Asher | N | N | 
 | John | N | N | 
 | Hudson | N | N | 
-| Luca | N | Y | Removed from first name list by Noodle 2/17/2026
+| Luca | N | X | Removed from first name list by Noodle 2/17/2026. Removed from middle name contention by Noodle and Bubs 2/24
 | Leo | N | N | 
-| Elias | X | Y | Removed from first name by Noodle 2/17/2026
+| Elias | X | X | Removed from first name by Noodle 2/17/2026. Removed from middle name contention by Noodle and Bubs 2/24
 | Owen | Y | Y | 
 | Alexander | N | N | 
 | Dylan | N | N | 
@@ -61,10 +61,10 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Wyatt | N | N | 
 | Thomas | N | Y |This is an acceptable middle name. I would not have regrets using it. Is it my top one, no. But again, I would not have regrets using it. That is why it is marked `Y` 
 | Isaac | N | N | 
-| Jacob | N | Z | I really need to think more about this as a middle name. I don't think I would have regrets, but I am not sure if it fits our son's middle name.
+| Jacob | N | X | I really need to think more about this as a middle name. I don't think I would have regrets, but I am not sure if it fits our son's middle name. Removed by Noodle and Bubs 2/24
 | Gabriel | N | N | 
 | Anthony | N | N | 
-| Carter | N | Y | 
+| Carter | N | X | Removed from middle name contention by Noodle and Bubs 2/24 
 | Logan | N | N | 
 | Aiden | N | N | 
 | Grayson | N | N | 
@@ -88,7 +88,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Andrew | N | N | 
 | Beau | N | N | 
 | Weston | N | N | 
-| Rowan | N | Y | 
+| Rowan | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Adrian | N | N | 
 | Lincoln | N | N | 
 | Enzo | N | N | 
@@ -102,14 +102,14 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Walker | N | N | 
 | Jonathan | N | N | 
 | Leonardo | N | N | 
-| Everett | X | Y | Removed from first name list by Noodle 2/17/2026
+| Everett | X | X | Removed from first name list by Noodle 2/17/2026. Removed from middle name contention by Noodle and Bubs 2/24
 | Micah | N | N | 
 | Ryan | N | N | 
 | August | N | N | 
 | Gael | N | N | 
 | Robert | N | N | 
 | Jose | N | N | 
-| Eli | X | Y | Removed from first name by Noodle 2/17/2026
+| Eli | X | X | Removed from first name by Noodle 2/17/2026. Removed from middle name contention by Noodle and Bubs 2/24. 
 | Jeremiah | N | N | 
 | Amir | N | N | 
 | Jaxon | N | N | 
@@ -119,7 +119,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Atlas | N | N | 
 | Xavier | N | N | 
 | Easton | N | N | 
-| Jordan | N | Y | 
+| Jordan | N | X | Removed from middle name contention by Noodle and Bubs 2/24 
 | Arthur | N | N | 
 | Landon | N | N | 
 | Austin | N | N | 
@@ -129,16 +129,16 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Vincent | N | N | 
 | River |  N| N | 
 | Emiliano | N | N | 
-| Jace | N | Y |Despite being my cousin's kid's name, I would still use this as a middle name without regrets. We hardly see them at all, as in, you've never even met my cousin Sara.  
+| Jace | N | X |Despite being my cousin's kid's name, I would still use this as a middle name without regrets. We hardly see them at all, as in, you've never even met my cousin Sara. Removed from middle name contention by Noodle and Bubs 2/24.
 | Archer | N | N | 
 | Lorenzo | N | N | 
 | Jameson | N | N | 
 | Nicholas | N | N | 
-| Emmett | X | Y | Removed by Noodle on 2/19/2026 
+| Emmett | X | X | Removed by Noodle on 2/19/2026. Removed from middle name contention by Noodle 2/24. 
 | Milo | N | N | 
 | Harrison | N | N | 
 | Giovanni | N | N | 
-| Carson | N | Y | 
+| Carson | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | George | N | N | 
 | Kayden | N | N | 
 | Jonah | N | N | 
@@ -148,7 +148,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Luis | N | N | 
 | Declan | N | N | 
 | Sawyer | N | N | 
-| Jasper | N | Y | 
+| Jasper | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Ryder | N | N | 
 | Carlos | N | N | 
 | Connor | Z | Y | I think this sounds good as middle name with a lot of names. I'm still unsure of the first name. At first I didn't like it as a first name, but as I used it more, I think it is growing on me to the point of saying that I wouldn't have regrets naming him this. However, I believe I need more time with it. 
@@ -158,14 +158,14 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Calvin | N | N | 
 | Leon | N | N | 
 | Dean | N | N | 
-| Evan | Y | Y | 
+| Evan | Y | X |Removed by Noodle and Bubs 2/24 
 | Nathaniel | N | N | 
 | Diego | N | N | 
 | Arlo | N | N | 
 | Bryson | N | N | 
 | Jason | N | N | 
 | Malachi | N | N | 
-| Elliot | N | Z | I need more time on this middle name. I initial like the way it sounds, but then it seems kinda nerdy to me.  
+| Elliot | N | X | I need more time on this middle name. I initial like the way it sounds, but then it seems kinda nerdy to me. Removed by Noodle and Bubs 2/24 for middle name. 
 | Zion | N | N | 
 | Emilio | N | N | 
 | Ivan | N | N | 
@@ -232,9 +232,9 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Xander | N | N | 
 | Oscar | N | N | 
 | Colter | N | N | 
-| Joel | N | Y | 
+| Joel | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Abel | N | N | 
-| Patrick | N | Y | 
+| Patrick | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Rafael | N | N | 
 | Griffin | N | N | 
 | Brody | N | N | 
@@ -253,7 +253,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Kairo | N | N | 
 | Cohen | N | N | 
 | Nash | N | N | 
-| Grant | N | Y | 
+| Grant | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Callan | N | N | 
 | Dallas | N | N | 
 | Harvey | N |  N| 
@@ -267,7 +267,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Simon | N | N | 
 | Aziel | N | N | 
 | Cyrus | N | N | 
-| Gavin | X | Y | Noodle removed this from the list on 2/19/2026 
+| Gavin | X | X | Noodle removed this from the list on 2/19/2026. Removed from middle name contention by Noodle and Bubs 2/24
 | Marcus | N | N | 
 | Ronan | N | N | 
 | Derek | N | N | 
@@ -344,7 +344,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Gideon | N | N | 
 | Erick | N | N | 
 | Archie | N | N | 
-| Colin | N | Y | 
+| Colin | N | X | Removed from middle name contention by Noodle and Bubs 2/24 
 | Sonny | N | N | 
 | Shiloh | N | N | 
 | Mathias | N | N | 
@@ -482,7 +482,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Jasiah | N | N | 
 | Matthias | N | N | 
 | Zaire | N | N | 
-| Corbin | N | Y | 
+| Corbin | N | X | Removed from middle name contention by Noodle and Bubs 2/24
 | Asa | N | N | 
 | Yusuf | N | N | 
 | Erik | N | N | 
@@ -581,7 +581,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Ford | N | N | 
 | Soren | N | N | 
 | Zaiden | N | N | 
-| Allen | N | Y |
+| Allen | N | X |Removed from middle name contention by Noodle and Bubs 2/24
 | Louie | N | N | 
 | Ronald | N | N | 
 | Alden | N | N | 
@@ -827,7 +827,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Mustafa | N | N | 
 | Rey | N | N | 
 | Rudy | N | N | 
-| Emery | N | Y | 
+| Emery | N | X |Removed from middle name contention by Noodle and Bubs 2/24 
 | Ignacio | N | N | 
 | Jettson | N | N | 
 | Bear | N | N | 
@@ -1002,6 +1002,6 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Ishaan | N | N | 
 | Kace | N | N | 
 | Stefan | N | N | 
-|Jethro | N | Y |
+|Jethro | N | X |Removed from middle name contention by Noodle and Bubs 2/24
 
 |===
