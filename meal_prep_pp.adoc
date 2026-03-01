@@ -1,0 +1,40 @@
+Last Updated: {docdate}
+
+.Meals
+[#meals]
+[%autowidth, cols = "<,<"]
+|===
+|Meal|Made
+
+|Breakfast sandwiches
+    |
+
+|Breakfast Burritos
+    |
+
+|Egg Bake with peppers and sausage
+    |
+
+|Chicken Noodle Soup
+    |
+
+|Chicken Tortilla Soup
+    |
+
+|Empanadas
+    |
+
+|Lasagna
+    |
+
+|Pasta Bake
+    |
+
+|Regular Chicken burritos
+    |
+
+|BBQ Pulled Pork
+    |
+
+
+|===
