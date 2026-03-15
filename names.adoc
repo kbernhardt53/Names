@@ -54,7 +54,7 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | David | N | N | 
 | Joseph | N | X |Removed by Noodle 2/21/2026
 | Matthew | N | N | 
-| Luke | N | Y | BMNR: 7
+| Luke | N | X | Removed by Noodle and Bubs 3/6/2026
 | Jackson | N | N | 
 | Maverick | N | N | 
 | Miles | N | Y | BMNR: 6 + 
@@ -114,8 +114,8 @@ NOTE: Some first names are also marked as middle name contenders. This does not 
 | Jeremiah | N | N | 
 | Amir | N | N | 
 | Jaxon | N | N | 
-| Parker | X | Y | BMNR: 9 +
- Removed from first name by Noodle 2/17/2026
+| Parker | X | X |
+ Removed from first name by Noodle 2/17/2026. Removed from middle name list by Noodle and Bubs 3/6/2026.
 | Colton | N | N |  
 | Adam | N | N | 
 | Atlas | N | N | 
