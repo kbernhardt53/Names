@@ -3,39 +3,54 @@ Last Updated: {docdate}
 
 .Meals
 [#meals]
-[%autowidth, cols = "<,<"]
+[%autowidth, cols = "<,<,<"]
 |===
-|Meal|Made
+|Meal|Ingredients|Made
 
 |Breakfast sandwiches
+    |
     |
 
 |Breakfast Burritos
     |
+    |
 
 |Egg Bake with peppers and sausage
+    |
     |
 
 |Chicken Noodle Soup
     |
+    |
 
 |Chicken Tortilla Soup
+    |
     |
 
 |Empanadas
     |
+    |
 
 |Lasagna
+    |1-2 lb ground beef, 2 24 oz jars of marinara sauce, medium onion, lasagna noodles (no boil?), 2 15 oz ricotta, grated parm, mozzarella cheese
     |
 
 |Pasta Bake
     |
+    |
 
 |Regular Chicken burritos
+    |
     |
 
 |BBQ Pulled Pork
     |
+    |
+
+|Chicken Enchiladas
+    |
+    |
+
 
 
 |===
