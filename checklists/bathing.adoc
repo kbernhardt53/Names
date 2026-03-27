@@ -1,0 +1,27 @@
+= Bath Time
+{docdate}
+
+NOTE: Bathe 2-3 times per week. 
+
+== Prep
+
+* [ ] Basin of warm water (100{deg}F)
+* [ ] Towel
+* [ ] Two washcloths 
+* [ ] Mild baby soap
+* [ ] Diaper within reach
+* [ ] Wrap baby 
+ 
+== Washing
+* [ ] Start with head and face. 
+* [ ] Wash hair
+** [ ] For eyes, use a washcloth without soap and wipe once from inside out outside corner
+** [ ] Clean nose
+** [ ] Clean outer ears
+* [ ] Unwrap areas as you go, using baby soap on hands and bottom 
+* [ ] Wash genitals from front to back
+* [ ] Wash baby other washcloth
+
+== Finish
+* [ ] Dry with towel
+* [ ] Add clothes and diaper
