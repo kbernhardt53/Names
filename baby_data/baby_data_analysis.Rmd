@@ -1,0 +1,49 @@
+---
+title: "Data Analysis"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE)
+```
+
+```{r}
+#setup
+
+library(tidyverse)
+```
+
+
+```{r}
+#data reading and inspection.
+
+setwd("C:/Users/kbern/Documents/repos/Names/baby_data")
+
+#read and process data
+data <- read.csv("baby_data.csv", stringsAsFactors = F) %>% separate(col = "Start", into = c("Start.Date", "Start.Time"), sep = " ") %>% 
+  separate(col = "End", into = c("End.Date", "End.Time"), sep = " ") %>%
+  mutate(Start.Date = ymd(Start.Date),
+         Start.Time = hm(Start.Time),
+         End.Date = ymd(End.Date),
+         End.Time = hm(End.Time)) 
+
+#process all diapers
+
+diapers <- data %>% filter(Type == "Diaper") %>% 
+  mutate(Diaper.Type = case_when(str_detect(End.Condition, "Both")~"Both",
+                                  str_detect(End.Condition, "Pee")~"Pee",
+                                  str_detect(End.Condition, "Poo")~"Poo"))
+
+both_df <- diapers %>% filter(Diaper.Type == "Both") %>% 
+  mutate(End.Condition = str_remove(End.Condition, pattern = "Both, ")) %>%
+  separate(End.Condition, into = c("Poo.Size", "Pee.Size"), " ") %>%
+  mutate(Poo.Size = str_remove(Poo.Size, "poo:"),
+         Pee.Size = str_remove(Pee.Size, "pee:"))
+
+pee_df <- diapers %>% filter(Diaper.Type == "Pee") %>%
+  separate(End.Condition, into = c("Pee.Remove", "Pee.Size"), ":",) %>% 
+  select(!Pee.Remove)
+```
+

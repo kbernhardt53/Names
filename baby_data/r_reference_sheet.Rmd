@@ -1,0 +1,78 @@
+---
+title: "R Sheet"
+output: html_document
+date: '`r Sys.Date()`'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#R Reference Sheet
+
+##Loading Packages
+
+For most work that you do, the `tidyverse` and `readxl` packages are the only ones that you will need. More packages are available, but these are your work horses. `tidyverse` gives you a bunch of data manipulation tools... super powerful. `readxl` allows you to read in excel files. Here is how you load them. Use `CTL + ENTER` with the code you want to run highlighted. You can also hit `CTL + ENTER` with your cursor at the end of a line to run that particular line of code. 
+
+```{r}
+
+library(readxl)
+library(tidyverse)
+
+```
+
+##Working Directory and Loading Data
+
+###Setting a working directory
+
+Setting a working directory is not required, but it makes things easier. It makes your calls for loading files shorter.
+
+```{r}
+setwd("C:/Users/kbern/Documents/repos/Names/baby_data")
+
+```
+
+###Loading Data
+
+Load the `baby_data.csv` data into an object called `baby_df`. You can call this literally whatever you want. Point being, there is an object called `baby_df` that is our data frame.
+
+- `baby_df` is the object name
+- `<-` means "assign to object"
+- `read.csv()` is a function that loads in .csv data. It has the arguments:
+-- `file` specifies the file you want to load, Remmeber the file extension. 
+--`stringsAsFactors` do you want to load strings as factors? I always put this to false. 
+
+```{r}
+#this assumes you have your working directory set.
+baby_df <- read.csv(file = "baby_data.csv", stringsAsFactors = FALSE)
+
+#this is the same as the above command if you didn't have your working directory set. This is the long way of doing it. 
+
+baby_df <- read.csv(file = "C:/Users/kbern/Documents/repos/Names/baby_data/baby_data.csv", stringsAsFactors = FALSE)
+
+#if you wanted to load in an excel file, use the following:
+
+#baby_df <- read_xlsx("baby_data.xlsx", sheet = "Sheet1")
+
+```
+
+After you run this, you will see the dataset in your "Environment" on the upper right side window. If you want to see your data, do the following. 
+
+```{r}
+View(baby_df)
+```
+
+You can get a pop-out of the data by clicking the "View in New Window" button next to the "Filter" button. 
+
+Tadaaaa you lodaded in data!
+
+## Basic Data Manipulation
+
+### Filtering Data
+
+I want to filter out only the rows that are designated as "Diaper". Store the resulting filtered data in a new object (`diaper_df`).
+
+```{r}
+diaper_df <- baby_df %>% filter(Type == "Diaper")
+```
+
