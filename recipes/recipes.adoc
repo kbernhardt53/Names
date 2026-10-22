@@ -1,0 +1,9 @@
+= Recipes
+:toc: left
+:icons: font
+
+include::beef_and_bell_pepper_fajitas.adoc[leveloffset=+1]
+
+include::ground_turkey_sweet_potato_skillet.adoc[leveloffset=+1]
+
+include::med_chicken_bowl.adoc[leveloffset=+1]
